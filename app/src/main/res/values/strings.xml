@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Actividad2_2</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="tv_login">Introduce contraseña</string>
+    <string name="bt_login">Aceptar</string>
+    <string name="title_activity_2">Activity2</string>
+
+    <string name="mensajeLogin">Introduce una contraseña</string>
+    <string name="ErrorPass">Contraseña erronea \n Te quedan %1$s intentos</string>
+    <string name="tv_titulo">Titulo :</string>
+    <string name="hint_titulo">Introduce titulo</string>
+    <string name="tv_editorial">Editorial :</string>
+    <string name="hint_editorial">Introduce editorial</string>
+    <string name="tv_autor">Autor :</string>
+    <string name="hint_autor">Introduce autor</string>
+    <string name="tv_genero">Género :</string>
+    <string name="bt_add">Añadir</string>
+    <string name="hint_buscarTitulo">Título a buscar</string>
+    <string name="hint_editorialBuscada">Editorial a buscar</string>
+    <string name="hint_autorBuscado">Autor a buscar</string>
+    <string-array name="genero">
+        <item>Accion y aventuras</item>
+        <item>Arte y cine</item>
+        <item>Biografia</item>
+        <item>Ciencia y medicina</item>
+        <item>Fantasia y ciencia ficcion</item>
+        <item>Historia</item>
+        <item>Infantil y juvenil</item>
+        <item>Policiaca</item>
+        <item>Romantica</item>
+    </string-array>
+    <string name="title_activity_3">Activity3</string>
+
+
+    <string name="title_activity_4">Activity4</string>
+    <string name="tv_tituloBusqueda">Título :</string>
+    <string name="tv_codigoLibro">Código :</string>
+    <string name="tv_disponible">Disponible :</string>
+    <string name="msjErrorAutor">Introduce un autor</string>
+    <string name="msjErrorEditorial">Introduce una editorial</string>
+    <string name="msjErrorTitulo">Introduce un titulo</string>
+    <string name="hint_filtro">Título o Género a buscar</string>
+    <string name="bt_prestamo">Prestamo</string>
+    <string name="msjNoPrestamo">Este libro no esta disponible</string>
+    <string name="tv_iniPres">Inicio Prestamo :</string>
+    <string name="tv_finPres">Fin Prestamo :</string>
+    <string name="bt_eliminar">Eliminar</string>
+</resources>
